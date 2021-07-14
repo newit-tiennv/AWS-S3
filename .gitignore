@@ -102,3 +102,8 @@ dist
 
 # TernJS port file
 .tern-port
+
+AWSCLIV2.pkg
+*package-lock.json
+*.zip
+.git
